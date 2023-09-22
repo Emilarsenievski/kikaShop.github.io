@@ -1,0 +1,8 @@
+Origin: KikaShop Origin
+Label: KikaShop
+Suite: stable
+Version: 1.0
+Codename: kikashop
+Architectures: iphoneos-arm
+Components: main
+Description: A shop with a collection of the best tweaks of the market.
